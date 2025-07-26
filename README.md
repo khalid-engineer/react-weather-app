@@ -14,13 +14,13 @@ A modern, responsive React-based weather application that fetches real-time weat
 Here are some examples of the app in action:
 
 - Mumbai Weather:
-  ![Mumbai Weather](\src\Mumbai.png)
+  ![Mumbai Weather](/src/Mumbai.png)
 
 
 - Karachi Weather:
-  ![Karachi Weather](\src\karachi.png)
+  ![Karachi Weather](/src/karachi.png)
  
 
 - Lahore Weather:
-  ![Lahore Weather](\src\lahore.png)
+  ![Lahore Weather](/src/lahore.png)
  
